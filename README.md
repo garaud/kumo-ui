@@ -1,7 +1,7 @@
 # Kumo-ui
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+(really *draft*) Interface for [Kumo](http://github.com/garaud/kumo), a REST
+application for requesting air quality stations data in Europe.
 
 ## Prerequisites
 
